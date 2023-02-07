@@ -2,7 +2,7 @@
 <h3 align="center">A Java and Guidewire developer from Italy</h3>
 <br/>
 
-- 📫 How to reach me **s.scarano.new@gmail.com**
+- 📫 How to reach me **s.scarano93@gmail.com**
 
 - 📖 I’m currently studying the [OSSU CompSci curriculum](https://github.com/ossu/computer-science)
 
